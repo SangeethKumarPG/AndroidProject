@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">CounterApp</string>
+    <string name="click_me">Click me</string>
+    <string name="_0">0</string>
+    <string name="the_counter_application">The counter application</string>
+</resources>

@@ -1,0 +1,11 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <!-- remove No ActionBar from below line to add menu-->
+    <style name="Base.Theme.LuckyNumberApp" parent="Theme.Material3.DayNight">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="colorPrimary">@color/golden</item>
+    </style>
+
+    <style name="Theme.LuckyNumberApp" parent="Base.Theme.LuckyNumberApp" />
+</resources>

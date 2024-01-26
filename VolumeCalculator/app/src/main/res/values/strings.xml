@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">VolumeCalculator</string>
+    <string name="text1">text1</string>
+    <string name="volume_calculator">Volume Calculator</string>
+    <string name="sphere_volume">Sphere Volume</string>
+    <string name="enter_the_radius">Enter the radius</string>
+    <string name="calculate">Calculate</string>
+    <string name="cube_volume">Cube Volume</string>
+    <string name="enter_the_side">enter the side</string>
+    <string name="enter_the_height">enter the height</string>
+    <string name="cylinder_volume">Cylinder Volume</string>
+    <string name="enter_the_base_radius">Enter the base radius</string>
+    <string name="square_prism_volume">Square Prism Volume</string>
+    <string name="enter_the_base_side">enter the base side</string>
+</resources>
